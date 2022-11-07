@@ -36,6 +36,15 @@ public class Zmienne {
 
         // https://github.com/przemjan/trzeciabgr22022
 
+        // windows r
+
+        // \\ubuckp
+
+        // student student123
+
+        //public / janisz
+
+
 
     }
 }
