@@ -34,6 +34,8 @@ public class Zmienne {
 
         boolean isSlonce = true; //false
 
+        // https://github.com/przemjan/trzeciabgr22022
+
 
     }
 }
